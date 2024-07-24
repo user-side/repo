@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Transformers: A Simple Implementation using PyTorch",
+    "url": "/transformers-pytorch-implementation/",
+    "slug": "Transformers",
+    "cover": {
+      "imageFile": "transformers.png"
+    },
+    "date": "2023-02-20",
+    "category": "machine-learning",
+    "tags": ["transformers", "pytorch", "machine-learning", "natural-language-processing"],
+    "time": {
+      "text": "5 min read"
+    }
+  }
+]
